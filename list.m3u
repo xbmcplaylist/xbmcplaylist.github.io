@@ -1,0 +1,635 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV", BBC 1
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
+#EXTINF:-1 tvg-logo="BBC Two.png" group-title="Live TV", BBC 2
+http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+#EXTINF:-1 tvg-logo="BBC Two.png" group-title="Live TV", BBC 2
+http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", BBC 1 HD
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
+#EXTINF:-1 tvg-logo="BBC2.png" group-title="Live TV", BBC  2 HD
+http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+#EXTINF:-1 tvg-logo="BBC3.png" group-title="Live TV", BBC 3 HD
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc3.m3u8
+#EXTINF:-1 tvg-logo="BBC4.png" group-title="Live TV", BBC 4 HD
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc4.m3u8
+#EXTINF:-1 tvg-logo="STV.png" group-title="Live TV", STV - ITV Scotland
+http://csm-e-usc1-9.cds1.yospace.com/csm/live/92981621.m3u8
+#EXTINF:-1 tvg-logo="STV.png" group-title="Live TV", ITV 1
+http://uk.stream.yo.tv/livehttporigin/ITV1_360p.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", UK BBC ONE
+http://uk.stream.yo.tv/livehttporigin/BBCOne_360p.stream/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", UK BBC TWO
+http://uk.stream.yo.tv/livehttporigin/BBCTwo_360p.stream/chunklist.m3u8  
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", UK ITV ONE
+http://uk.stream.yo.tv/livehttporigin/ITV1_360p.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", UK CH FOUR
+http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", UK CH FIVE
+http://uk.stream.yo.tv/livehttporigin/Channel5_360p.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", TLC
+http://202.75.23.34/live/ch35/03.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", Food Network
+http://83.139.104.123/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", LBC - (Dubai ENG)
+http://yoolive.com/hls/lbc.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="NatGeo.png" group-title="Live TV", NatGeo Wild
+http://202.75.23.35/live/ch39/01.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", DMAX
+http://202.75.23.34/live/ch32/01.m3u8
+#EXTINF:-1 tvg-logo="DiscoveryChannel.png" group-title="Live TV", Discovery Kids - New Channel Dec 2014
+http://202.75.23.35/live/ch36/01.m3u8
+#EXTINF:-1 tvg-logo="MGMHD.png" group-title="Live TV", MGM SD
+http://202.75.23.35/live/ch40/01.m3u8
+#EXTINF:-1, group-title="Live TV",Discovery Science - Slow
+http://202.75.23.34/live/ch33/03.m3u8
+#EXTINF:-1 tvg-logo="DiscoveryChannel.png" group-title="Live TV", Discovery World
+http://202.75.23.34/live/ch30/01.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Live TV", eScapes HD TV
+http://204.107.26.252:1935/live/341.high.stream/RacacaxTV.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Live TV", Wealth TV
+http://204.107.26.252:1935/live/403.high.stream/RacacaxTV.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Live TV", QVC HD - America
+http://204.107.26.252:1935/live/413.high.stream/RacacaxTV.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Live TV", Free Speech TV
+http://204.107.26.252:1935/live/697.high.stream/RacacaxTV.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Live TV", YouToo
+http://204.107.26.252:1935/live/773.high.stream/RacacaxTV.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Live TV", Ginx
+http://204.107.26.252:1935/live/796.high.stream/RacacaxTV.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Live TV", Press TV
+http://204.107.26.252:1935/live/905.high.stream/RacacaxTV.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Live TV", 1 on 1 Boxing TV
+http://204.107.26.145:1935/live/1988.low.stream/RacacaxTV.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Live TV", iFlix TV
+http://204.107.26.252:1935/live/1991.high.stream/RacacaxTV.m3u8 
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Live TV", American Horrors 
+http://204.107.26.252:1935/live/393.high.stream/RacacaxTV.m3u8  
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", TEST PATTERN - best channel yet
+http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", CineStream TV
+http://68.71.42.179/live/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", DW
+http://dwtvios_asiaplus-i.akamaihd.net/hls/live/200521-b/dwtvasiaplus/x1x/playlist1x.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", DOCUBOX
+http://stream1.zoovision.com//livespi/docubox/playlist.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", FASHION TV(Russia)
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", NatGeo Low 320*240
+http://202.75.23.35:1400/live/ch38/01.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", RTL PLUS
+http://83.139.104.123/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", RTL 1
+http://178.218.162.146/918829941/rtl1.stream/chunklist_w151028916.m3u8 
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", RTL 2
+http://83.139.104.123/Content/HLS/Live/Channel(Rtl_2)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", Pentagon Channel - Source b
+http://149.11.34.6:1935/live/pentagon.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Live TV", Pentagon Channel - Source a
+http://149.11.34.6:1935/live/pentagon.stream/playlist.m3u8?wowzasessionid=750145898
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", Vernnissage TV
+http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", FilmBox ArtHouse
+http://stream1.zoovision.com//livespi/arthouse/playlist.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", Discovery Channel SD
+http://83.139.104.123/Content/HLS/Live/Channel(discovery_channel)/index.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", FilmBox DocuBox
+http://stream1.zoovision.com//livespi/docubox/playlist.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", NASA Media HD
+http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", NASA TV HD - Source a
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", NASA TV HD - Source b
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", CBS Reality
+http://83.139.104.123/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Live TV", RT Documentary HD - Eng Subbed
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Live TV", Pink Pedia
+http://on108.setplex.net/fastv_2psh/PinkPediaglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", Deutsche Welle
+http://dwtvios_asiaplus-i.akamaihd.net/hls/live/200521-b/dwtvasiaplus/x1x/playlist1x.m3u8
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Live TV", Spain: Yes! - Learn ENG/Spanish
+http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Live TV", Animal Planet (Eng/Rus)- BBTS Source A
+http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", Animal Planet (Eng/Rus) - BBTS Source B  
+http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Live TV",  Animal Planet 2 Eng/Rus) BBTS - Source A
+http://83.139.104.123/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", Animal Planet 2 Eng/Rus)BBTS - Source A
+http://83.139.104.123/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Live TV", Viasat History 1
+http://83.139.104.123/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Live TV", Viasat History 2
+http://83.139.104.123/Content/HLS/Live/Channel(viasat_history)/index.m3u8 
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Live TV", Viasat Explorer - Summer Source A
+http://83.139.104.123/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Live TV", Viasat Explorer - Summer Source B
+http://83.139.104.123/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", Xtreme Impacts
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", World Fashion
+http://46.249.213.93/iPhone/broadcast/worldfashionchannel-tablet.3gp/worldfashionchannel-tablet.3gp-mr648k.m3u8?trackingid=3791770000&os=desktop
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", Travel Channel
+http://202.75.23.35/live/ch41/03.m3u8?b?b*t$world ras
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", MGM (censored)
+http://202.75.23.35/live/ch40/03.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8?b?b*t$
+#EXTINF:-1, group-title="Live TV",Smash TV (Malta)
+http://iphone-streaming.ustream.tv/ustreamVideo/12803100/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV", MBC 2 (ENG) Source a
+http://8.21.48.19:7777/MBC2_HD.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV",MBC 2 (ENG) Source b
+http://8.21.48.19:7777/MBC2_HD.m3u8
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV", MBC 3 (ENG) Source a
+http://8.21.48.19:7777/MBC3_HD.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV", MBC 3 (ENG) Source b
+http://8.21.48.19:7777/MBC3_HD.m3u8
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV", MBC 4 (ENG) Source b
+http://8.21.48.19:7777/MBC4_HD.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV",MBC 4 (ENG) Source a
+http://8.21.48.19:7777/MBC4_HD.m3u8
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV",  MBC MAX (ENG) Source b
+http://yoolive.com/hls/mbc_max.m3u8
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV", MBC Action (ENG) Source b
+http://yoolive.com/hls/mbc_action.m3u8
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV",  MBC Drama  (ENG) Source b
+http://yoolive.com/hls/mbc_drama.m3u8
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV",MBC Drama (ENG) Source a
+http://8.21.48.19:7777/MBCDrama_HD.m3u8
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV",MBC Action (ENG) Source a
+http://8.21.48.19:7777/MBCAction_HD.m3u8
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV",MBC MAX (ENG) Source a
+http://8.21.48.19:7777/MBCMax_HD.m3u8
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV",LONDON LIVE
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Live TV", Havoc Television
+http://204.107.26.252:1935/live/335.high.stream/RacacaxTV.m3u8
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+#EXTINF:-1 tvg-logo="madmen.png" group-title="24/7 TV Boxsets",  Madmen
+http://62.210.76.216:8080/hls/madmen.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="24/7 TV Boxsets", Archer (HD).
+http://62.210.76.216:8080/hls/archerxhd.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Bio.png" group-title="24/7 TV Boxsets", Bobs Burgers (HD).
+http://62.210.76.216:8080/hls/bobsxd.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Bio.png" group-title="24/7 TV Boxsets", The Cleveland Show (HD).
+http://62.210.76.216:8080/hls/clevx.m3u8?b?b*t$
+
+
+#EXTINF:-1 tvg-logo="Bio.png" group-title="24/7 TV Boxsets", King Of The Hill (HD).
+http://62.210.76.216:8080/hls/kinghillhxd.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Bio.png" group-title="24/7 TV Boxsets",  Lost (HD).
+http://62.210.76.216:8080/hls/lostfree.m3u8?b?b*t$
+
+#EXTINF:-1 tvg-logo="Bio.png" group-title="24/7 TV Boxsets", Sons of Anarchy (HD).
+http://62.210.76.216:8080/hls/soaxhd.m3u8?b?b*t$
+
+#EXTINF:-1 tvg-logo="Bio.png" group-title="24/7 TV Boxsets", Weeds (HD).
+http://62.210.76.216:8080/hls/weedshdx.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Bio.png" group-title="24/7 TV Boxsets", Adventure Time.
+http://62.210.76.216:8080/hls/adventure.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Bio.png" group-title="24/7 TV Boxsets", Aqua Teen Hunger Force (HD).
+http://62.210.76.216:8080/hls/aquasx.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Bio.png" group-title="24/7 TV Boxsets", Tom&Jerry
+http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8?b?b*t$
+
+
+#EXTINF:0, group-title="Sports",Sport HD
+http://193.232.151.135/hls-live/livepkgr/_1031_/1031/1031-70.m3u8
+#EXTINF:0,group-title="Sports", Sport HD source a
+http://193.232.151.135/hls-live/livepkgr/_1031_/1031/1031-70.m3u8
+#EXTINF:0,group-title="Sports", Sport HD source b
+http://193.232.151.135/hls-live/livepkgr/_1031_/1031/1031-60.m3u8
+#EXTINF:0,group-title="Sports", Sport HD source c
+http://193.232.151.135/hls-live/livepkgr/_1031_/1031/1031-50.m3u8
+#EXTINF:0,group-title="Sports", Sport HD source d
+http://193.232.151.135/hls-live/livepkgr/_1025_/1025/1025-70.m3u8
+#EXTINF:-1, group-title="Sports",RUS ‚Äì 1 Sport Russia
+http://178.49.132.73/streaming/sport1/tvrec/playlist.m3u8
+#EXTINF:-1, group-title="Sports",rosports 1
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+#EXTINF:-1, group-title="Sports",Poker Channel
+http://195.154.188.161/hls/pokerhd.m3u8
+#EXTINF:0, group-title="Sports",NTV Football Online - Foreign
+http://193.232.151.135/hls-live/livepkgr/_1032_/1032/1032-70.m3u8
+#EXTINF:-1, group-title="Sports", Denmark ‚Äì Kanalsport
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/playlist.m3u8
+#EXTINF:-1, group-title="Sports",MFS Golf- KOREA
+http://lm01.everyon.tv:1935/ptv/pld58/hasbahca.m3u8
+#EXTINF:0,group-title="Sports", Football 1 - Russia
+http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8
+#EXTINF:-1 tvg-logo="Sport1.png" group-title="Sports", Sport 1
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", Football - Russia
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", PAC 12 Bay Area
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", PAC 12 Arizona
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", PAC 12 National
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", PAC 12 Los Angeles
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", PAC 12 Mountain
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", PAC 12 Oregon
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", PAC 12 Washington
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", Dubai Racing (UAE)
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", MBC Sports Pro 1
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", MBC Sports Pro 2
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", MBC Sports Pro 3
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8 
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", Sport HD
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/playlist.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", Pro Sports 3 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", Pro Sports 2 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", Pro Sports 1 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", Pro Sports 4 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", Kanal Sports
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/HD.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", Sportskool
+http://204.107.26.252:1935/live/686.high.stream/RacacaxTV.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", FIGHTBOX HD
+http://stream1.zoovision.com/livespi/fightbox/playlist.m3u8
+#EXTINF:-1, group-title="Sports",EUROSPORT 2 - ENG
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1, group-title="Sports",EUROSPORT 2 - ENG B
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1, group-title="Sports",Serbia_Croatia-EUROSPORT 2
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1, group-title="Sports",SLOW UK 5AM
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1, group-title="Sports",Sport
+http://193.232.151.135/hls-live/livepkgr/_1025_/1025/1025-70.m3u8
+#EXTINF:-1, group-title="Sports",Sport
+http://193.232.151.135/hls-live/livepkgr/_1031_/1031/1031-50.m3u8
+#EXTINF:-1, group-title="Sports",Sportsnet East
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/007.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet East HD
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet Extra 1 HD
+http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8
+#EXTINF:-1, group-title="Sports",Sportsnet Pacific
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/007.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet Pacific HD
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8
+#EXTINF:-1, group-title="Sports",Sportsnet West
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/007.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet West HD
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8
+#EXTINF:-1, group-title="Sports",SPORTSNET 1
+http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8?sd=10&rebase=on
+#EXTINF:-1, group-title="Sports",Sportsnet East
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/007.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet East HD
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet Extra 1 HD
+http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8
+#EXTINF:-1, group-title="Sports",Sportsnet Pacific
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/007.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet Pacific HD
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8
+#EXTINF:-1, group-title="Sports",Sportsnet West
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/007.m3u8
+#EXTINF:-1, group-title="Sports",sportsnet West HD
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8
+#EXTINF:-1, group-title="Sports",SPORTS HD
+http://193.232.151.135/hls-live/livepkgr/_1031_/1031/1031-80.m3u8
+#EXTINF:-1, group-title="Sports",SPORT 1
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+#EXTINF:-1, group-title="Sports",NTV SPORT
+http://iptv.sat-elit.net/hls/123/index.m3u8
+#EXTINF:-1, group-title="Sports",NTV FOOTBALL 1
+http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8
+#EXTINF:-1, group-title="Sports",NTV FOOTBALL 3
+http://iptv.sat-elit.net/hls/522/index.m3u8
+#EXTINF:-1, group-title="Sports",NASH FOOTBALL
+http://193.232.151.135/hls-live/livepkgr/_1073_/1073/1073-70.m3u8
+#EXTINF:-1, group-title="Sports",EXTREME SPORTS
+http://83.139.104.123/Content/HLS/Live/Channel(extreme_sports)/index.m3u8
+#EXTINF:-1, group-title="Sports",Dubai Racing (UAE) - Low Quality
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
+##EXTINF:-1, group-title="Sports",Sportsnet 1 (Canada)
+http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8?sd=10&rebase=on
+#EXTINF:-1, group-title="Sports",Sportsnet East. (Canada)
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8?sd=10&rebase=on
+##EXTINF:-1, group-title="Sports",Sportsnet Extra 1 (Canada)
+http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8?b?b*t$
+#EXTINF:-1, group-title="Sports",Sportsnet Pacific (Canada)
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8?sd=10&rebase=on
+#EXTINF:-1, group-title="Sports",Sportsnet West (Canada)
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8?sd=10&rebase=on
+#EXTINF:-1, group-title="Sports",ASN
+http://202.75.23.33/live/ch26/01.m3u8
+
+
+#EXTINF:-1, group-title="Sports",EUROSPORT SLOW UK 5AM
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", Eurosport - in French
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8 
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", Eurosport HD
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports", Xtreme Impacts
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8?b?b*t$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Clubland
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", MTV Hits
+http://202.75.23.35:1400/live/ch42/01.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", MTV Music
+http://83.139.104.123/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Hip Hop Channel
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", M6 Music Club
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_club_hls_aes/m6_music_club_hls_aes_856.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Smash Hits
+http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8 
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", 4MUSIC
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", M6 Music black
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_black_hls_aes/m6_music_black_hls_aes_856.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Magic
+http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Reggae Entertainment Television
+http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Vevo HD1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Vevo HD2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Vevo HD3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Musicbox Russia
+http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Musicbox UK
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="Box.png" group-title="Music TV", The Box
+http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Now Music UK
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8 
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", W9 - Music
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", M Tunes (India)
+http://mthls-i.akamaihd.net/hls/live/219508/mthls/06.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", PARTY TV
+http://77.36.61.45:8010/PartyTV.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Heat
+http://csm-e.cds1.yospace.com/csm/live/86561584.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Pink Music
+http://on108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/playlist.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Pink Music 2
+http://on108.setplex.net/fastv_2psh/PinkMusic2global_rly_greece_103/playlist.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Pink Music 3
+http://on108.setplex.net/fastv_2psh/PinkMusic3global_rly_greece_103/playlist.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Pink Music 4
+http://on108.setplex.net/fastv_2psh/PinkMusic4global_rly_greece_103/playlist.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Pink Music 5
+http://on108.setplex.net/fastv_2psh/PinkMusic5global_rly_greece_103/playlist.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Music TV", Spain: Suena TV - Spanish
+http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Music TV", Spain: MIMUSICA HD- Spanish
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Music TV", ROUGE TV
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", AKA - source A
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8#?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Music TV", AKA - source B
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Kiss TV
+http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV",  Trace Urban
+http://46.249.213.87/iPhone/broadcast/tracetvurban-tablet.3gp/tracetvurban-tablet.3gp-mr647k.m3u8?b?b*t$
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="CNBC.png" group-title="News", CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="ABC.png" group-title="News",  ABC News  
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-logo="ABC.png" group-title="News",  ABC News HD
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="RT.png" group-title="News", RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u81
+#EXTINF:-1 tvg-logo="BBC World.png" group-title="News", BBC World
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-logo="Bloomberg.png" group-title="News", Bloomberg
+http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w976476961_b453000.m3u8
+#EXTINF:-1 tvg-logo="CCTV news.png" group-title="News", CCTV news
+http://77.36.61.45:8010/CCTVNews.m3u8
+#EXTINF:-1 tvg-logo="FOX 59 News.png" group-title="News", FOX 59 News
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1 tvg-logo="i24 News.png" group-title="News", i24 News (English)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-logo="Russia Today.png" group-title="News", Russia Today 720
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="CNBC.png" group-title="News", CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="CNN.png" group-title="News", CNN sd
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-logo="CNN.png" group-title="News", CNN US
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="News", Ap Direct
+http://62.213.85.137/hls/enf.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="News", BBC World News
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="News", BLOOMBERG
+http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w976476961_b453000.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="News", CNN
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="News", i24 ISRAEL
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="News", Al Jazeera
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="News", Jamaican News Network JNN
+http://rjr_flash-lh.akamaihd.net/i/jnn_1@177149/master.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="News", GN9 (CHICAGO)
+http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="News", WGN9 (CHICAGO)
+http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8?b?b*t$
+
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="News", SKY NEWS
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8 
+
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="News", ALJAZZERA US
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_528.m3u8
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="News", CCTV Arabic
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/cctv_528.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", CINESTAR TV
+http://83.139.104.123/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", CINESTAR PREMIERE 1
+http://83.139.104.123/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", CINESTAR PREMIERE 2
+http://83.139.104.123/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", CINESTAR ACTION THRILLER
+http://83.139.104.123/Content/HLS/Live/Channel(cinestar_action_and_thriller)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink
+http://on108.setplex.net/fastv_2psh/Pinkglobal_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink Action - Source a
+http://on108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink Action - Source b
+http://on108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/playlist.m3u8?b?b*t$
+
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink Action 2 SD
+http://on108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink 2
+http://on108.setplex.net/fastv_2psh/Pink2global_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink Movies 2
+http://on108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink Horror
+http://on108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink Movies  3
+http://on108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink comedy
+http://on108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/playlist.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink 3 z
+http://on108.setplex.net/fastv_2psh/Pink3global_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink Movies 3 z
+http://on108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink Family
+http://on108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/hasbahca.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink Action 2
+http://on108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/playlist.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink M
+http://on108.setplex.net/fastv_2psh/PinkMglobal_rly_greece_109/hasbahca.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels", Pink Movies 3
+http://on108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/playlist.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Movie Channels",  Pink Premium
+http://on108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/hasbahca.m3u8?b?b*t$
+
+
+#EXTINF:0,NASA HD
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8
+#EXTINF:0,SKY NEWS
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8 
+#EXTINF:0,CNN
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+#EXTINF:0,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:0,BLOOMBERG
+http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w976476961_b453000.m3u8
+#EXTINF:0,CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8
+#EXTINF:0,i24 ISRAEL
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:0,BBC World News II
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:0,BBC Alba
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbcalba.m3u8
+#EXTINF:0,STV
+http://csm-e-usc1-9.cds1.yospace.com/csm/live/92981621.m3u8
+#EXTINF:0,4 MUSIC
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+#EXTINF:0,THE BOX
+http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
+#EXTINF:0,MAGIC
+http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
+#EXTINF:0,KISS TV
+http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8
+#EXTINF:0,SMASH HITS
+http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
